@@ -67,13 +67,13 @@
 </head>
 <body>
     <div class="loading-text">
-        <h1>Arceus X Check Point (2/2) Loading</h1>
+        <h1> CodeX Check Point (2/2) Loading</h1>
     </div>
     <div class="progress-bar">
         <div class="progress-bar-fill"></div>
     </div>
     <div class="button-container">
-        <button class="continue-button" onclick="redirectToKeySystem()">Arceus X Check Point 2/2</button>
+        <button class="continue-button" onclick="redirectToKeySystem()">CodeX Check Point 2/2</button>
     </div>
     <div class="button-container">
         <button class="subscribe-button" onclick="subscribeToYouTube()">Subscribe to Alter-X On YouTube</button>
